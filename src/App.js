@@ -34,8 +34,8 @@ function useInView(threshold = 0.15) {
 const MARQUEE = ["C#", "JavaScript", "Java", "Python", "ReactJs", "ASP.NET", "JQuery", "MySQL", "SQL Server", "Git", "Docker", "CI/CD"];
 
 const PROJECTS = [
-  { num:"001", title:"Inventory & Par Level Management System",       tag:"Full-stack", desc:"real-time dashboards, low-stock alerts, and multi-store architecture so each location runs independently. ASP.NET Core APIs on the backend, React on the front, SQL Server + Azure keeping it reliable in production.", stack:["ReactJs","ASP.NET","SQL Server"] },
-  { num:"002", title:"JanSport E-Commerce",  tag:"Full-Stack",        desc:"Full-stack e-commerce clone built with Django and Bootstrap — auth, product management, search, and a responsive UI that doesn't make your eyes bleed. Kept it simple, kept it functional.", stack:["Django","Bootstrap"] },
+  { num:"001", title:"Inventory & Par Level Management System", tag:"Full-stack", desc:"real-time dashboards, low-stock alerts, and multi-store architecture so each location runs independently. ASP.NET Core APIs on the backend, React on the front, SQL Server + Azure keeping it reliable in production.", stack:["ReactJs","ASP.NET","SQL Server"] },
+  { num:"002", title:"JanSport E-Commerce", tag:"Full-Stack", desc:"Full-stack e-commerce clone built with Django and Bootstrap — auth, product management, search, and a responsive UI that doesn't make your eyes bleed. Kept it simple, kept it functional.", stack:["Django","Bootstrap"] },
   ];
 
 const EXP = [
@@ -51,7 +51,7 @@ const COMMANDS = {
   whoami:  'Rupesh — Full-stack Developer, Thinker, API Whisperer.',
   stack:   'ASP.NET· ReactJs · Python · Java · Docker · MYSQL · JQuery',
   contact: 'rup.ace.pasa@gmail.com  ·  github.com/rupacepro  ·  linkedin.com/in/rupacepro',
-  joke:    "Why do Java developers wear glasses? Because they don't C#. (I'm a Python dev, I'm allowed.)",
+  joke:    "Plot twist: you're here to hire me",
   exit:    "Nice try. You can't exit my website.",
 };
 
